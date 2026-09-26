@@ -1,0 +1,15 @@
+---
+title: "Guanyi Wang"
+---
+
+Welcome to my STA 9750 course project site! 
+
+I am a graduate student at Baruch College pursuing my MS in Statistics. This site hosts my coursework, analyses, and data science projects for the semester.
+
+```{r}
+#| include: false
+1+1
+```
+
+-----------------
+Last Updated: `r format(Sys.time(), "%A %m %d, %Y at %H:%M%p")`
